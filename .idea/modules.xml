@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Event-Finder-System.iml" filepath="$PROJECT_DIR$/Event-Finder-System.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Event-Finding-System.iml" filepath="$PROJECT_DIR$/Event-Finding-System.iml" />
+>>>>>>> 6253f784266f735b4065cd71ca039cb17768265c
     </modules>
   </component>
 </project>
