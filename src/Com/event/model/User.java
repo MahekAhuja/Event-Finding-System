@@ -1,10 +1,5 @@
-package model;
+package Com.event.model;
 
-<<<<<<< HEAD
-public class User {
-
-}
-=======
 public class User extends AbstractUser {
 
     public User(int id, String name) {
@@ -13,7 +8,6 @@ public class User extends AbstractUser {
 
     @Override
     public void displayRole() {
-        System.out.println("User");
+        System.out.println("Role: User");
     }
 }
->>>>>>> 2ede9760450ccbd4ae6aa6c760b8cb913b175a30
